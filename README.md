@@ -22,6 +22,8 @@ Resource :
 ### 26 octobre 2016
 J'allume un aspirateur en USB en focntion du taux d'humidité. Pour le branchement du l'aspirateur, j'ai eu l'aide d'Alain et de cette page : https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/transistors
 
+![First fritzing](/img/Clever-Sprinkler_bb.png)
+
 ## photos
 
 ![First proto photo](/img/IMG_1120.JPG?raw=true "First proto photo")
