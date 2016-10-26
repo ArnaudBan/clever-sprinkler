@@ -1,4 +1,4 @@
-# clever-sprinkler
+# Clever sprinkler
 A clever sprinkler i'm having fun building
 
 ## Concepte
@@ -16,6 +16,11 @@ Pour l'envoie de mail [Pushingbox](https://www.pushingbox.com/) semble une bonne
 
 Resource :
 * http://dbrenk.blogspot.fr/2015/03/connecting-thingspeakcom-to.html
+
+## Prototype
+
+### 26 octobre 2016
+J'allume un aspirateur en USB en focntion du taux d'humidité. Pour le branchement du l'aspirateur, j'ai eu l'aide d'Alain et de cette page : https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/transistors
 
 ## photos
 
